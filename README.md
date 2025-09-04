@@ -2,7 +2,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>Madhuri Reddyit - Instagram Clone with Username Login</title>
+  <title>Madhuri Reddy - Instagram Clone with Username Login</title>
   <script src="https://cdn.tailwindcss.com"></script>
   <link
     rel="stylesheet"
@@ -49,7 +49,7 @@
         id="loginTitle"
         class="text-3xl font-bold text-center mb-6 text-pink-600 select-none"
       >
-        Madhuri Reddyit
+        Madhuri Reddy
       </h2>
       <form id="loginForm" class="space-y-6" novalidate>
         <div>
